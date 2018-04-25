@@ -1,0 +1,2 @@
+c:\users\studentas\documents\visual studio 2015\Projects\20180425_uzduotis_nd1\20180425_uzduotis_nd1\bin\Debug\20180425_uzduotis_nd1.exe.config
+c:\users\studentas\documents\visual studio 2015\Projects\20180425_uzduotis_nd1\20180425_uzduotis_nd1\obj\Debug\20180425_uzduotis_nd1.csprojResolveAssemblyReference.cache

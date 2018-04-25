@@ -1,0 +1,6 @@
+c:\users\studentas\documents\visual studio 2015\Projects\Aritmetiniai veiksmai_20180424\Aritmetiniai veiksmai_20180424\bin\Debug\Aritmetiniai veiksmai_20180424.exe.config
+c:\users\studentas\documents\visual studio 2015\Projects\Aritmetiniai veiksmai_20180424\Aritmetiniai veiksmai_20180424\obj\Debug\Aritmetiniai veiksmai_20180424.csprojResolveAssemblyReference.cache
+c:\users\studentas\documents\visual studio 2015\Projects\Aritmetiniai veiksmai_20180424\Aritmetiniai veiksmai_20180424\bin\Debug\Aritmetiniai veiksmai_20180424.exe
+c:\users\studentas\documents\visual studio 2015\Projects\Aritmetiniai veiksmai_20180424\Aritmetiniai veiksmai_20180424\bin\Debug\Aritmetiniai veiksmai_20180424.pdb
+c:\users\studentas\documents\visual studio 2015\Projects\Aritmetiniai veiksmai_20180424\Aritmetiniai veiksmai_20180424\obj\Debug\Aritmetiniai veiksmai_20180424.exe
+c:\users\studentas\documents\visual studio 2015\Projects\Aritmetiniai veiksmai_20180424\Aritmetiniai veiksmai_20180424\obj\Debug\Aritmetiniai veiksmai_20180424.pdb

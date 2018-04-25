@@ -1,0 +1,6 @@
+c:\users\studentas\documents\visual studio 2015\Projects\8-ni kamuoliai_20180425\8-ni kamuoliai_20180425\bin\Debug\8-ni kamuoliai_20180425.exe.config
+c:\users\studentas\documents\visual studio 2015\Projects\8-ni kamuoliai_20180425\8-ni kamuoliai_20180425\obj\Debug\8-ni kamuoliai_20180425.csprojResolveAssemblyReference.cache
+c:\users\studentas\documents\visual studio 2015\Projects\8-ni kamuoliai_20180425\8-ni kamuoliai_20180425\bin\Debug\8-ni kamuoliai_20180425.exe
+c:\users\studentas\documents\visual studio 2015\Projects\8-ni kamuoliai_20180425\8-ni kamuoliai_20180425\bin\Debug\8-ni kamuoliai_20180425.pdb
+c:\users\studentas\documents\visual studio 2015\Projects\8-ni kamuoliai_20180425\8-ni kamuoliai_20180425\obj\Debug\8-ni kamuoliai_20180425.exe
+c:\users\studentas\documents\visual studio 2015\Projects\8-ni kamuoliai_20180425\8-ni kamuoliai_20180425\obj\Debug\8-ni kamuoliai_20180425.pdb
