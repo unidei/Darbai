@@ -1,0 +1,5 @@
+c:\users\studentas\documents\visual studio 2015\Projects\20180426_FORantra\20180426_FORantra\bin\Debug\20180426_FORantra.exe.config
+c:\users\studentas\documents\visual studio 2015\Projects\20180426_FORantra\20180426_FORantra\bin\Debug\20180426_FORantra.exe
+c:\users\studentas\documents\visual studio 2015\Projects\20180426_FORantra\20180426_FORantra\bin\Debug\20180426_FORantra.pdb
+c:\users\studentas\documents\visual studio 2015\Projects\20180426_FORantra\20180426_FORantra\obj\Debug\20180426_FORantra.exe
+c:\users\studentas\documents\visual studio 2015\Projects\20180426_FORantra\20180426_FORantra\obj\Debug\20180426_FORantra.pdb

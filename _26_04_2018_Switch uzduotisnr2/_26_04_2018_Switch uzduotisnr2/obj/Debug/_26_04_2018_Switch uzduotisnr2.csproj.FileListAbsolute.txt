@@ -1,0 +1,6 @@
+c:\users\studentas\documents\visual studio 2015\Projects\_26_04_2018_Switch uzduotisnr2\_26_04_2018_Switch uzduotisnr2\bin\Debug\_26_04_2018_Switch uzduotisnr2.exe.config
+c:\users\studentas\documents\visual studio 2015\Projects\_26_04_2018_Switch uzduotisnr2\_26_04_2018_Switch uzduotisnr2\obj\Debug\_26_04_2018_Switch uzduotisnr2.csprojResolveAssemblyReference.cache
+c:\users\studentas\documents\visual studio 2015\Projects\_26_04_2018_Switch uzduotisnr2\_26_04_2018_Switch uzduotisnr2\bin\Debug\_26_04_2018_Switch uzduotisnr2.exe
+c:\users\studentas\documents\visual studio 2015\Projects\_26_04_2018_Switch uzduotisnr2\_26_04_2018_Switch uzduotisnr2\bin\Debug\_26_04_2018_Switch uzduotisnr2.pdb
+c:\users\studentas\documents\visual studio 2015\Projects\_26_04_2018_Switch uzduotisnr2\_26_04_2018_Switch uzduotisnr2\obj\Debug\_26_04_2018_Switch uzduotisnr2.exe
+c:\users\studentas\documents\visual studio 2015\Projects\_26_04_2018_Switch uzduotisnr2\_26_04_2018_Switch uzduotisnr2\obj\Debug\_26_04_2018_Switch uzduotisnr2.pdb

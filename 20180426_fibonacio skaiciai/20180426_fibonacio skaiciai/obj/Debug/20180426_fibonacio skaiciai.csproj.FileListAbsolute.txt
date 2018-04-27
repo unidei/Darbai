@@ -1,0 +1,6 @@
+c:\users\studentas\documents\visual studio 2015\Projects\20180426_fibonacio skaiciai\20180426_fibonacio skaiciai\bin\Debug\20180426_fibonacio skaiciai.exe.config
+c:\users\studentas\documents\visual studio 2015\Projects\20180426_fibonacio skaiciai\20180426_fibonacio skaiciai\bin\Debug\20180426_fibonacio skaiciai.exe
+c:\users\studentas\documents\visual studio 2015\Projects\20180426_fibonacio skaiciai\20180426_fibonacio skaiciai\bin\Debug\20180426_fibonacio skaiciai.pdb
+c:\users\studentas\documents\visual studio 2015\Projects\20180426_fibonacio skaiciai\20180426_fibonacio skaiciai\obj\Debug\20180426_fibonacio skaiciai.csprojResolveAssemblyReference.cache
+c:\users\studentas\documents\visual studio 2015\Projects\20180426_fibonacio skaiciai\20180426_fibonacio skaiciai\obj\Debug\20180426_fibonacio skaiciai.exe
+c:\users\studentas\documents\visual studio 2015\Projects\20180426_fibonacio skaiciai\20180426_fibonacio skaiciai\obj\Debug\20180426_fibonacio skaiciai.pdb

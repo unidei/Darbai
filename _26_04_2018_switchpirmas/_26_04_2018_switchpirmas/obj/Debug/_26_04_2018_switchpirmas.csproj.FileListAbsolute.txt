@@ -1,0 +1,6 @@
+c:\users\studentas\documents\visual studio 2015\Projects\_26_04_2018_switchpirmas\_26_04_2018_switchpirmas\bin\Debug\_26_04_2018_switchpirmas.exe.config
+c:\users\studentas\documents\visual studio 2015\Projects\_26_04_2018_switchpirmas\_26_04_2018_switchpirmas\bin\Debug\_26_04_2018_switchpirmas.exe
+c:\users\studentas\documents\visual studio 2015\Projects\_26_04_2018_switchpirmas\_26_04_2018_switchpirmas\bin\Debug\_26_04_2018_switchpirmas.pdb
+c:\users\studentas\documents\visual studio 2015\Projects\_26_04_2018_switchpirmas\_26_04_2018_switchpirmas\obj\Debug\_26_04_2018_switchpirmas.csprojResolveAssemblyReference.cache
+c:\users\studentas\documents\visual studio 2015\Projects\_26_04_2018_switchpirmas\_26_04_2018_switchpirmas\obj\Debug\_26_04_2018_switchpirmas.exe
+c:\users\studentas\documents\visual studio 2015\Projects\_26_04_2018_switchpirmas\_26_04_2018_switchpirmas\obj\Debug\_26_04_2018_switchpirmas.pdb

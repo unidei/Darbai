@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20180426_fibonacio skaiciai", "20180426_fibonacio skaiciai\20180426_fibonacio skaiciai.csproj", "{149730EA-6EEA-4E34-8025-C5171AE6E98F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{149730EA-6EEA-4E34-8025-C5171AE6E98F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{149730EA-6EEA-4E34-8025-C5171AE6E98F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{149730EA-6EEA-4E34-8025-C5171AE6E98F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{149730EA-6EEA-4E34-8025-C5171AE6E98F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
