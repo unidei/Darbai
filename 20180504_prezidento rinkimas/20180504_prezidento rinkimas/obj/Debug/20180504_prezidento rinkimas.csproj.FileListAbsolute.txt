@@ -1,0 +1,6 @@
+c:\users\studentas\documents\visual studio 2015\Projects\20180504_prezidento rinkimas\20180504_prezidento rinkimas\bin\Debug\20180504_prezidento rinkimas.exe.config
+c:\users\studentas\documents\visual studio 2015\Projects\20180504_prezidento rinkimas\20180504_prezidento rinkimas\obj\Debug\20180504_prezidento rinkimas.csprojResolveAssemblyReference.cache
+c:\users\studentas\documents\visual studio 2015\Projects\20180504_prezidento rinkimas\20180504_prezidento rinkimas\bin\Debug\20180504_prezidento rinkimas.exe
+c:\users\studentas\documents\visual studio 2015\Projects\20180504_prezidento rinkimas\20180504_prezidento rinkimas\bin\Debug\20180504_prezidento rinkimas.pdb
+c:\users\studentas\documents\visual studio 2015\Projects\20180504_prezidento rinkimas\20180504_prezidento rinkimas\obj\Debug\20180504_prezidento rinkimas.exe
+c:\users\studentas\documents\visual studio 2015\Projects\20180504_prezidento rinkimas\20180504_prezidento rinkimas\obj\Debug\20180504_prezidento rinkimas.pdb

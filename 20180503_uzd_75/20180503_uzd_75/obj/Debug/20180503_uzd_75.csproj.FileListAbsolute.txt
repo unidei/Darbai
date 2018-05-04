@@ -1,0 +1,6 @@
+c:\users\studentas\documents\visual studio 2015\Projects\20180503_uzd_75\20180503_uzd_75\bin\Debug\20180503_uzd_75.exe.config
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\20180503_uzd_75\20180503_uzd_75\obj\Debug\20180503_uzd_75.csprojResolveAssemblyReference.cache
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\20180503_uzd_75\20180503_uzd_75\bin\Debug\20180503_uzd_75.exe
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\20180503_uzd_75\20180503_uzd_75\bin\Debug\20180503_uzd_75.pdb
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\20180503_uzd_75\20180503_uzd_75\obj\Debug\20180503_uzd_75.exe
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\20180503_uzd_75\20180503_uzd_75\obj\Debug\20180503_uzd_75.pdb

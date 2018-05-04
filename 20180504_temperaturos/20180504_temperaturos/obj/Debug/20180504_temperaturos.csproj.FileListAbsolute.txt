@@ -1,0 +1,6 @@
+c:\users\studentas\documents\visual studio 2015\Projects\20180504_temperaturos\20180504_temperaturos\bin\Debug\20180504_temperaturos.exe.config
+c:\users\studentas\documents\visual studio 2015\Projects\20180504_temperaturos\20180504_temperaturos\obj\Debug\20180504_temperaturos.csprojResolveAssemblyReference.cache
+c:\users\studentas\documents\visual studio 2015\Projects\20180504_temperaturos\20180504_temperaturos\bin\Debug\20180504_temperaturos.exe
+c:\users\studentas\documents\visual studio 2015\Projects\20180504_temperaturos\20180504_temperaturos\bin\Debug\20180504_temperaturos.pdb
+c:\users\studentas\documents\visual studio 2015\Projects\20180504_temperaturos\20180504_temperaturos\obj\Debug\20180504_temperaturos.exe
+c:\users\studentas\documents\visual studio 2015\Projects\20180504_temperaturos\20180504_temperaturos\obj\Debug\20180504_temperaturos.pdb

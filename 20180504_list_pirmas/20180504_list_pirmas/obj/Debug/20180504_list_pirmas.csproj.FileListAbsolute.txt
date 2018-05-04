@@ -1,0 +1,6 @@
+c:\users\studentas\documents\visual studio 2015\Projects\20180504_list_pirmas\20180504_list_pirmas\bin\Debug\20180504_list_pirmas.exe.config
+c:\users\studentas\documents\visual studio 2015\Projects\20180504_list_pirmas\20180504_list_pirmas\obj\Debug\20180504_list_pirmas.csprojResolveAssemblyReference.cache
+c:\users\studentas\documents\visual studio 2015\Projects\20180504_list_pirmas\20180504_list_pirmas\bin\Debug\20180504_list_pirmas.exe
+c:\users\studentas\documents\visual studio 2015\Projects\20180504_list_pirmas\20180504_list_pirmas\bin\Debug\20180504_list_pirmas.pdb
+c:\users\studentas\documents\visual studio 2015\Projects\20180504_list_pirmas\20180504_list_pirmas\obj\Debug\20180504_list_pirmas.exe
+c:\users\studentas\documents\visual studio 2015\Projects\20180504_list_pirmas\20180504_list_pirmas\obj\Debug\20180504_list_pirmas.pdb

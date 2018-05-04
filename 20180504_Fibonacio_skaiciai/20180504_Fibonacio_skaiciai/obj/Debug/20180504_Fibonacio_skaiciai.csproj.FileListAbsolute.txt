@@ -1,0 +1,6 @@
+c:\users\studentas\documents\visual studio 2015\Projects\20180504_Fibonacio_skaiciai\20180504_Fibonacio_skaiciai\bin\Debug\20180504_Fibonacio_skaiciai.exe.config
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\20180504_Fibonacio_skaiciai\20180504_Fibonacio_skaiciai\obj\Debug\20180504_Fibonacio_skaiciai.csprojResolveAssemblyReference.cache
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\20180504_Fibonacio_skaiciai\20180504_Fibonacio_skaiciai\bin\Debug\20180504_Fibonacio_skaiciai.exe
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\20180504_Fibonacio_skaiciai\20180504_Fibonacio_skaiciai\bin\Debug\20180504_Fibonacio_skaiciai.pdb
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\20180504_Fibonacio_skaiciai\20180504_Fibonacio_skaiciai\obj\Debug\20180504_Fibonacio_skaiciai.exe
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\20180504_Fibonacio_skaiciai\20180504_Fibonacio_skaiciai\obj\Debug\20180504_Fibonacio_skaiciai.pdb

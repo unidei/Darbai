@@ -1,0 +1,5 @@
+c:\users\studentas\documents\visual studio 2015\Projects\20180504_dvigubai didejantis masyvas\20180504_dvigubai didejantis masyvas\bin\Debug\20180504_dvigubai didejantis masyvas.exe.config
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\20180504_dvigubai didejantis masyvas\20180504_dvigubai didejantis masyvas\bin\Debug\20180504_dvigubai didejantis masyvas.exe
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\20180504_dvigubai didejantis masyvas\20180504_dvigubai didejantis masyvas\bin\Debug\20180504_dvigubai didejantis masyvas.pdb
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\20180504_dvigubai didejantis masyvas\20180504_dvigubai didejantis masyvas\obj\Debug\20180504_dvigubai didejantis masyvas.exe
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\20180504_dvigubai didejantis masyvas\20180504_dvigubai didejantis masyvas\obj\Debug\20180504_dvigubai didejantis masyvas.pdb

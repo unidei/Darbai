@@ -1,0 +1,6 @@
+c:\users\studentas\documents\visual studio 2015\Projects\20180504_List_antra\20180504_List_antra\bin\Debug\20180504_List_antra.exe.config
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\20180504_List_antra\20180504_List_antra\obj\Debug\20180504_List_antra.csprojResolveAssemblyReference.cache
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\20180504_List_antra\20180504_List_antra\bin\Debug\20180504_List_antra.exe
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\20180504_List_antra\20180504_List_antra\bin\Debug\20180504_List_antra.pdb
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\20180504_List_antra\20180504_List_antra\obj\Debug\20180504_List_antra.exe
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\20180504_List_antra\20180504_List_antra\obj\Debug\20180504_List_antra.pdb
