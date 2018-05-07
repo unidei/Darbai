@@ -1,0 +1,6 @@
+c:\users\studentas\documents\visual studio 2015\Projects\20180507_Eurovizija\20180507_Eurovizija\bin\Debug\20180507_Eurovizija.exe.config
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\20180507_Eurovizija\20180507_Eurovizija\obj\Debug\20180507_Eurovizija.csprojResolveAssemblyReference.cache
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\20180507_Eurovizija\20180507_Eurovizija\bin\Debug\20180507_Eurovizija.exe
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\20180507_Eurovizija\20180507_Eurovizija\bin\Debug\20180507_Eurovizija.pdb
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\20180507_Eurovizija\20180507_Eurovizija\obj\Debug\20180507_Eurovizija.exe
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\20180507_Eurovizija\20180507_Eurovizija\obj\Debug\20180507_Eurovizija.pdb

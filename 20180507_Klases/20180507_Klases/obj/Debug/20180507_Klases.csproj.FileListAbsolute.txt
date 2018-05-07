@@ -1,0 +1,6 @@
+c:\users\studentas\documents\visual studio 2015\Projects\20180507_Klases\20180507_Klases\bin\Debug\20180507_Klases.exe.config
+c:\users\studentas\documents\visual studio 2015\Projects\20180507_Klases\20180507_Klases\bin\Debug\20180507_Klases.exe
+c:\users\studentas\documents\visual studio 2015\Projects\20180507_Klases\20180507_Klases\bin\Debug\20180507_Klases.pdb
+c:\users\studentas\documents\visual studio 2015\Projects\20180507_Klases\20180507_Klases\obj\Debug\20180507_Klases.csprojResolveAssemblyReference.cache
+c:\users\studentas\documents\visual studio 2015\Projects\20180507_Klases\20180507_Klases\obj\Debug\20180507_Klases.exe
+c:\users\studentas\documents\visual studio 2015\Projects\20180507_Klases\20180507_Klases\obj\Debug\20180507_Klases.pdb

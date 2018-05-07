@@ -1,0 +1,6 @@
+c:\users\studentas\documents\visual studio 2015\Projects\20180507_Pirma\20180507_Pirma\bin\Debug\20180507_Pirma.exe.config
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\20180507_Pirma\20180507_Pirma\obj\Debug\20180507_Pirma.csprojResolveAssemblyReference.cache
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\20180507_Pirma\20180507_Pirma\bin\Debug\20180507_Pirma.exe
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\20180507_Pirma\20180507_Pirma\bin\Debug\20180507_Pirma.pdb
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\20180507_Pirma\20180507_Pirma\obj\Debug\20180507_Pirma.exe
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\20180507_Pirma\20180507_Pirma\obj\Debug\20180507_Pirma.pdb
