@@ -1,0 +1,6 @@
+c:\users\studentas\documents\visual studio 2015\Projects\20180508_Kortos\20180508_Kortos\bin\Debug\20180508_Kortos.exe.config
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\20180508_Kortos\20180508_Kortos\obj\Debug\20180508_Kortos.csprojResolveAssemblyReference.cache
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\20180508_Kortos\20180508_Kortos\bin\Debug\20180508_Kortos.exe
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\20180508_Kortos\20180508_Kortos\bin\Debug\20180508_Kortos.pdb
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\20180508_Kortos\20180508_Kortos\obj\Debug\20180508_Kortos.exe
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\20180508_Kortos\20180508_Kortos\obj\Debug\20180508_Kortos.pdb

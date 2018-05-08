@@ -1,0 +1,6 @@
+c:\users\studentas\documents\visual studio 2015\Projects\20180508_bazines ir paveldincios klases\20180508_bazines ir paveldincios klases\bin\Debug\20180508_bazines ir paveldincios klases.exe.config
+c:\users\studentas\documents\visual studio 2015\Projects\20180508_bazines ir paveldincios klases\20180508_bazines ir paveldincios klases\obj\Debug\20180508_bazines ir paveldincios klases.csprojResolveAssemblyReference.cache
+c:\users\studentas\documents\visual studio 2015\Projects\20180508_bazines ir paveldincios klases\20180508_bazines ir paveldincios klases\bin\Debug\20180508_bazines ir paveldincios klases.exe
+c:\users\studentas\documents\visual studio 2015\Projects\20180508_bazines ir paveldincios klases\20180508_bazines ir paveldincios klases\bin\Debug\20180508_bazines ir paveldincios klases.pdb
+c:\users\studentas\documents\visual studio 2015\Projects\20180508_bazines ir paveldincios klases\20180508_bazines ir paveldincios klases\obj\Debug\20180508_bazines ir paveldincios klases.exe
+c:\users\studentas\documents\visual studio 2015\Projects\20180508_bazines ir paveldincios klases\20180508_bazines ir paveldincios klases\obj\Debug\20180508_bazines ir paveldincios klases.pdb

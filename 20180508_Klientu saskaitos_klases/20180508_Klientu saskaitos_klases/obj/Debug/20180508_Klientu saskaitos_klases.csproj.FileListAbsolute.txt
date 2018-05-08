@@ -1,0 +1,2 @@
+c:\users\studentas\documents\visual studio 2015\Projects\20180508_Klientu saskaitos_klases\20180508_Klientu saskaitos_klases\bin\Debug\20180508_Klientu saskaitos_klases.exe.config
+c:\users\studentas\documents\visual studio 2015\Projects\20180508_Klientu saskaitos_klases\20180508_Klientu saskaitos_klases\obj\Debug\20180508_Klientu saskaitos_klases.csprojResolveAssemblyReference.cache
