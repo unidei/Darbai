@@ -1,0 +1,6 @@
+c:\users\studentas\documents\visual studio 2015\Projects\vidurio atsiskaitymas_trecia\vidurio atsiskaitymas_trecia\bin\Debug\vidurio atsiskaitymas_trecia.exe.config
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\vidurio atsiskaitymas_trecia\vidurio atsiskaitymas_trecia\obj\Debug\vidurio atsiskaitymas_trecia.csprojResolveAssemblyReference.cache
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\vidurio atsiskaitymas_trecia\vidurio atsiskaitymas_trecia\bin\Debug\vidurio atsiskaitymas_trecia.exe
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\vidurio atsiskaitymas_trecia\vidurio atsiskaitymas_trecia\bin\Debug\vidurio atsiskaitymas_trecia.pdb
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\vidurio atsiskaitymas_trecia\vidurio atsiskaitymas_trecia\obj\Debug\vidurio atsiskaitymas_trecia.exe
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\vidurio atsiskaitymas_trecia\vidurio atsiskaitymas_trecia\obj\Debug\vidurio atsiskaitymas_trecia.pdb

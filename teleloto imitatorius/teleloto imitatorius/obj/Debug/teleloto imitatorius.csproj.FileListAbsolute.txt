@@ -1,0 +1,9 @@
+c:\users\studentas\documents\visual studio 2015\Projects\teleloto imitatorius\teleloto imitatorius\bin\Debug\teleloto imitatorius.exe.config
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\teleloto imitatorius\teleloto imitatorius\obj\Debug\teleloto imitatorius.csprojResolveAssemblyReference.cache
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\teleloto imitatorius\teleloto imitatorius\obj\Debug\teleloto_imitatorius.Form1.resources
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\teleloto imitatorius\teleloto imitatorius\obj\Debug\teleloto_imitatorius.Properties.Resources.resources
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\teleloto imitatorius\teleloto imitatorius\obj\Debug\teleloto imitatorius.csproj.GenerateResource.Cache
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\teleloto imitatorius\teleloto imitatorius\bin\Debug\teleloto imitatorius.exe
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\teleloto imitatorius\teleloto imitatorius\bin\Debug\teleloto imitatorius.pdb
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\teleloto imitatorius\teleloto imitatorius\obj\Debug\teleloto imitatorius.exe
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\teleloto imitatorius\teleloto imitatorius\obj\Debug\teleloto imitatorius.pdb

@@ -1,0 +1,6 @@
+c:\users\studentas\documents\visual studio 2015\Projects\vidurio atsiskaitymas_Ketvirta\vidurio atsiskaitymas_Ketvirta\bin\Debug\vidurio atsiskaitymas_Ketvirta.exe.config
+c:\users\studentas\documents\visual studio 2015\Projects\vidurio atsiskaitymas_Ketvirta\vidurio atsiskaitymas_Ketvirta\obj\Debug\vidurio atsiskaitymas_Ketvirta.csprojResolveAssemblyReference.cache
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\vidurio atsiskaitymas_Ketvirta\vidurio atsiskaitymas_Ketvirta\bin\Debug\vidurio atsiskaitymas_Ketvirta.exe
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\vidurio atsiskaitymas_Ketvirta\vidurio atsiskaitymas_Ketvirta\bin\Debug\vidurio atsiskaitymas_Ketvirta.pdb
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\vidurio atsiskaitymas_Ketvirta\vidurio atsiskaitymas_Ketvirta\obj\Debug\vidurio atsiskaitymas_Ketvirta.exe
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\vidurio atsiskaitymas_Ketvirta\vidurio atsiskaitymas_Ketvirta\obj\Debug\vidurio atsiskaitymas_Ketvirta.pdb

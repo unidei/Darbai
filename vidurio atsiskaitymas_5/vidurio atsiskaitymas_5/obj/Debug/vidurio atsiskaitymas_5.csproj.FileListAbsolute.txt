@@ -1,0 +1,5 @@
+c:\users\studentas\documents\visual studio 2015\Projects\vidurio atsiskaitymas_5\vidurio atsiskaitymas_5\bin\Debug\vidurio atsiskaitymas_5.exe.config
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\vidurio atsiskaitymas_5\vidurio atsiskaitymas_5\bin\Debug\vidurio atsiskaitymas_5.exe
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\vidurio atsiskaitymas_5\vidurio atsiskaitymas_5\bin\Debug\vidurio atsiskaitymas_5.pdb
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\vidurio atsiskaitymas_5\vidurio atsiskaitymas_5\obj\Debug\vidurio atsiskaitymas_5.exe
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\vidurio atsiskaitymas_5\vidurio atsiskaitymas_5\obj\Debug\vidurio atsiskaitymas_5.pdb

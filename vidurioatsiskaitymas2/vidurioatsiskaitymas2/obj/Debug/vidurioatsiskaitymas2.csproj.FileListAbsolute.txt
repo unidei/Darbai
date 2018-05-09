@@ -1,0 +1,2 @@
+c:\users\studentas\documents\visual studio 2015\Projects\vidurioatsiskaitymas2\vidurioatsiskaitymas2\bin\Debug\vidurioatsiskaitymas2.exe.config
+C:\Users\Studentas\Documents\Visual Studio 2015\Projects\vidurioatsiskaitymas2\vidurioatsiskaitymas2\obj\Debug\vidurioatsiskaitymas2.csprojResolveAssemblyReference.cache
